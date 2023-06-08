@@ -1,0 +1,8 @@
+C:\Users\TrueDetective\Desktop\labs\Project2\Debug\Project2.vcxproj.CopyComplete
+C:\Users\TrueDetective\Desktop\labs\Project2\Debug\Project2.exe
+C:\Users\TrueDetective\Desktop\labs\Project2\Debug\libcurl-d.dll
+C:\Users\TrueDetective\Desktop\labs\Project2\Debug\zlibd1.dll
+C:\Users\TrueDetective\Documents\build-ARM-Desktop_Qt_5_12_12_MinGW_32_bit-Debug\sendmail\Debug\Project2.vcxproj.CopyComplete
+C:\Users\TrueDetective\Documents\build-ARM-Desktop_Qt_5_12_12_MinGW_32_bit-Debug\sendmail\Debug\Project2.exe
+C:\Users\TrueDetective\Documents\build-ARM-Desktop_Qt_5_12_12_MinGW_32_bit-Debug\sendmail\Debug\libcurl-d.dll
+C:\Users\TrueDetective\Documents\build-ARM-Desktop_Qt_5_12_12_MinGW_32_bit-Debug\sendmail\Debug\zlibd1.dll
