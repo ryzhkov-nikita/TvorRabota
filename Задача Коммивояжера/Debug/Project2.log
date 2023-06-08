@@ -1,0 +1,66 @@
+﻿  zk.cpp
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(170,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(170,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(185,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(224,100): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(224,80): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(225,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(225,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(237,58): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(297,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(297,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(332,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(352,110): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(352,89): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(353,108): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(353,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\TrueDetective\Desktop\labs\Project2\zk.cpp(402,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Project2.vcxproj -> C:\Users\TrueDetective\Desktop\labs\Project2\Debug\Project2.exe
